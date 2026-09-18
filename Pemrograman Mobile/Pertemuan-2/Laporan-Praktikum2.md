@@ -11,10 +11,13 @@ Mahasiswa mampu:
 - Memastikan instalaso Git bash
 - Cek Instalasi Git bash (git --version)
 - Bukti Verifikasi
+
 ![alt text](image.png)
+
 - Memastikan adanya Node.JS dan NPM
   - Download dan Install Node.JS di https://node.js.org/en/download/
   - Konfirmasi Node.JS dan NPM (node -v, npm -v)
+
   ![alt text](image-1.png)
 
 
@@ -25,7 +28,9 @@ Mahasiswa mampu:
 - Open terminal change directory ke Pertemuan-2
 - Masukan perintah (npx create-expo-app --template blank)
 - Bukti verifikasi
+
 ![alt text](image-2.png)
+
 - Running Projek
  - Cd ke ptmn2
  - npx expo start
@@ -35,6 +40,7 @@ Mahasiswa mampu:
  - Install (npx expo install react-dom react-native-web)
  - npx expo start --web
  - Konfirmasi Keberhasilan
+
  ![alt text](image-3.png)
 
  Tugas Praktikum
@@ -44,3 +50,7 @@ Mahasiswa mampu:
    - Asal Sekolah
    - Cita-cita
    - Rencana Menggapai cita-cita
+
+ Konfirmasi keberhasilan
+
+![alt text](<WhatsApp Image 2026-09-18 at 10.40.23.jpeg>)
