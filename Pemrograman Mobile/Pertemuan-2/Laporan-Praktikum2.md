@@ -53,4 +53,4 @@ Mahasiswa mampu:
 
  Konfirmasi keberhasilan
 
-![alt text](<WhatsApp Image 2026-09-18 at 10.40.23.jpeg>)
+<img src=image-4.png width="20%" >
