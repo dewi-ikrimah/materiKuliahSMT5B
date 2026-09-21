@@ -53,4 +53,4 @@ Mahasiswa mampu:
 
  Konfirmasi keberhasilan
 
-<img src=image-4.png width="20%" >
+<img src="cv.jpeg" width="20%">
